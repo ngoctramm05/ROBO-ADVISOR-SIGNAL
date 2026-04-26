@@ -1,5 +1,4 @@
 # ROBO-ADVISOR-SIGNAL
-# ROBO-ADVISOR-SIGNAL
 ## 1. Thông tin dự án
 - Tên dự án: Robo-Advisor Trading Bot
 - Ngôn ngữ: Python
